@@ -1,0 +1,9 @@
+{
+	"name": "adf-databricks-spark-course",
+	"location": "germanywestcentral",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "00e0d564-7b89-4e44-9c59-40a695dcecc3",
+		"tenantId": "a2a0c807-b0bb-4568-b292-c3638a4fb460"
+	}
+}
